@@ -229,7 +229,7 @@ footer {
     margin-top: 30px;
 }
 
-.in-site-link {
+a {
     color: white;
     text-decoration: none;
 }
