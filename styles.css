@@ -244,3 +244,11 @@ footer {
     text-decoration: none;
 }
 
+@media (max-width: 500px) {
+    .in-site-link.about-link {
+        width: 1px;
+        height: 1px;
+        position:absolute;
+        top: -100px;
+    }
+}
