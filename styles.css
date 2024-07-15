@@ -252,7 +252,7 @@ footer {
 
 @media (max-width: 500px) {
     .header-buttons {
-        gap: 10px;
+        gap: 14px;
     }
 }
 
