@@ -78,7 +78,6 @@ body {
     position: relative;
     background: linear-gradient(#605ed2, #168042, #36413E 99%);
     z-index: 2;
-    box-shadow: 0 -3px 5px #23CE6B;
 }
 
 h1 {
