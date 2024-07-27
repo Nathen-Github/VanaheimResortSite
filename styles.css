@@ -185,6 +185,7 @@ h2 {
 .photo:hover {
     width: 400px;
     height: 300px;
+    transition: height 75ms linear;
 }
 
 .titles {
